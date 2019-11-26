@@ -1,0 +1,18 @@
+init     --> erstellt ein neues repository
+config   --> abrufen und festlegen von repositorys
+clone    --> klont ein repository
+add      --> fügt Dateiinhalte hinzu
+rm       --> löscht eine Datei
+commit   --> zeichnet änderungen des repositorys auf
+remote   --> verwalted eine Reihe von repositorys
+push     --> aktualisiert die remotes und die dazugehörigen Objekte
+pull     --> holt Daten von einem anderem repository oder Branch
+status   --> liefert Informationen über den Status des Branches
+diff     --> zeigt Änderungen an
+reset    --> setzt Änderungen zurück
+log      --> zeigt commit logs an
+branch   --> listet, erstellt oder löscht einen Branch
+checkout --> wechselt den Branch
+merge    --> verbindet branches miteinander
+
+
